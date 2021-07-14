@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alitalaghat
+- 👀 I’m interested in PHP, JavaScript, Slim Framework, WHMCS, Autodesk Forge, 
+- 🌱 I’m currently learning Node.js and Vue.js
+- 📫 How to reach me ali@talaghat.ir
